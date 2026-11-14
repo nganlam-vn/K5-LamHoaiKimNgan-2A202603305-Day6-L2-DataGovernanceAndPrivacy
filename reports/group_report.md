@@ -204,7 +204,7 @@ python -m pytest -q
 
 | Học viên | Git Author / Email | Module / Vai trò | Commit SHA & Minh chứng | Trình bày? |
 |---|---|---|---|---|
-| **Lâm Hoài Kim Ngân** | `unknown` <`watanabilinlin@gmail.com`> | Sole Contributor (Lead / Pipeline / Algorithm / QA / Reviewer / Report) | `65ed894`, `4915775` · Thực hiện toàn bộ 100%: cấu hình `configs/lab.yaml`; cài đặt 5 bước `src/pipeline.py`; thiết kế thuật toán PoC đa khuyết tật; viết bộ unit test `tests/test_t02_group.py`; thực hiện vòng thẩm định Human-in-the-loop `review_queue_reviewed.csv`; kiểm toán `audit_log.jsonl`; phân tích và lập báo cáo `group_report.md` | Có (Lead) |
+| **Lâm Hoài Kim Ngân** | `unknown` <`lamhoaikimngan91@gmail.com`> | Sole Contributor (Lead / Pipeline / Algorithm / QA / Reviewer / Report) | `65ed894`, `4915775` · Thực hiện toàn bộ 100%: cấu hình `configs/lab.yaml`; cài đặt 5 bước `src/pipeline.py`; thiết kế thuật toán PoC đa khuyết tật; viết bộ unit test `tests/test_t02_group.py`; thực hiện vòng thẩm định Human-in-the-loop `review_queue_reviewed.csv`; kiểm toán `audit_log.jsonl`; phân tích và lập báo cáo `group_report.md` | Có (Lead) |
 
 ---
 
